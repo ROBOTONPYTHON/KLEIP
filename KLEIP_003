@@ -1,0 +1,45 @@
+---
+title: Ensuring Community Integrity: Introducing a Registration Fee to Mitigate Sybil Attacks and Validate Participants
+id: <to be assigned>
+author: [Provide Author Details]
+type: governance
+network: [Optimism, Base & Solana]
+status: [Draft]
+created: ['2024-05-31']
+updated: ['2024-05-31']
+discussions-to: TBD
+---
+
+
+**Simple Summary**
+
+Introduce a registration fee to the Keng Lernitas Ekosistem to mitigate the risk of Sybil attacks and validate new participants.
+
+**Abstract**
+
+This proposal aims to introduce a KL registration fee of 0.01 ETH for new participants who wish to verify themselves and become a part of the Keng Lernitas Ekosistem. This fee will act as a deterrent against Sybil attacks by ensuring that all participants have a stake in the ecosystem.
+
+**Motivation**
+
+To improve the security and integrity of the Keng Lernitas Ekosistem, it is crucial to implement measures that reduce the risk of Sybil attacks. By introducing a registration fee, we can ensure that all participants are legitimate and have a vested interest in the ecosystem.
+
+**Specification**
+
+- A fee of 0.01 ETH will be required for new participants to register and verify themselves in the Keng Lernitas Ekosistem.
+- This fee will be collected at the time of registration and will be non-refundable.
+- The registration process will only be completed once the participant has successfully paid the registration fee.
+- The collected fees will be used to support the development and maintenance of the Keng Lernitas Ekosistem.
+
+**Parameters**
+
+- **Registration Fee:** 0.01 ETH
+
+**Rationale**
+
+The introduction of a registration fee is a common practice in many decentralized ecosystems to mitigate the risk of Sybil attacks. By requiring participants to have a financial stake in the ecosystem, we can ensure that they are less likely to engage in malicious activities. This fee is set at a level that is affordable for most participants but significant enough to deter the creation of fake accounts.
+
+**Test Cases**
+
+- Verify that new participants are required to pay the registration fee of 0.01 ETH.
+- Ensure that the registration process is only completed once the fee is paid.
+- Confirm that the collected fees are correctly allocated to the designated development and maintenance fund.
